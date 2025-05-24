@@ -1,0 +1,7 @@
+git init
+git add .
+git commit -m "초기 커밋"
+git branch -M main
+git remote add origin https://github.com/사용자명/babyplus-app.git
+git push -u origin main
+
